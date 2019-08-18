@@ -50,4 +50,4 @@ AdagradOptimizer и AdamOptimizer. Требуемую точность опти�
 ![graph](https://github.com/bishop777-sys/PythonTensorFlowOptimization/blob/master/graph.png)
 
 
-<h3>Граф решения обратной задачи кинематики</h3>
+<h3 style="text-align:center">Граф решения обратной задачи кинематики</h3>
